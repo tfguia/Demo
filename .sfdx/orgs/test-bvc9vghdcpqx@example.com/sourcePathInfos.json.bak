@@ -1,0 +1,392 @@
+[
+    [
+        "C:\\Users\\Indra\\Demo\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533111803918,
+            "changeTime": 1533111803918,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533111803918,
+            "changeTime": 1533111803918,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533111803934,
+            "changeTime": 1533111803934,
+            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533111803918,
+            "changeTime": 1533111803918,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1069,
+            "modifiedTime": 1533111803918,
+            "changeTime": 1533111803918,
+            "contentHash": "4328dbbac10441f331135e71c1a59d341d8985b7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533111803918,
+            "changeTime": 1533111803918,
+            "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533111803934,
+            "changeTime": 1533111803934,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 214,
+            "modifiedTime": 1533111803934,
+            "changeTime": 1533111803934,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 201,
+            "modifiedTime": 1533111803934,
+            "changeTime": 1533111803934,
+            "contentHash": "8fb8c90e313422b7a9229c17b7e7ebd123f214f7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 241,
+            "modifiedTime": 1533111803934,
+            "changeTime": 1533111803934,
+            "contentHash": "592726dae7a012945e83644c975feff73df551ff",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12,
+            "modifiedTime": 1533111803934,
+            "changeTime": 1533111803934,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1533111803934,
+            "changeTime": 1533111803934,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1533111803934,
+            "changeTime": 1533111803934,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 70,
+            "modifiedTime": 1533111803934,
+            "changeTime": 1533111803934,
+            "contentHash": "71e888bad43bee50e7680e4cdabf4d0ffc6e5de6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1533111803934,
+            "changeTime": 1533111803934,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 55,
+            "modifiedTime": 1533111803934,
+            "changeTime": 1533111803934,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533111803934,
+            "changeTime": 1533111803934,
+            "contentHash": "a1a96b41743564d0d68beaf118bef8b784942b87",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 720,
+            "modifiedTime": 1533111803934,
+            "changeTime": 1533111803934,
+            "contentHash": "f24cb49dcbc2e6ebf756392047f7dc58ffeecdec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533111803934,
+            "changeTime": 1533111803934,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18531,
+            "modifiedTime": 1533111803934,
+            "changeTime": 1533111803934,
+            "contentHash": "5fe6409f7088478079c5d07e0b506a71a92b3ec7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4658,
+            "modifiedTime": 1533111803934,
+            "changeTime": 1533111803934,
+            "contentHash": "80efcc593b1324cf525de1e1631bcee69ff1f162",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4658,
+            "modifiedTime": 1533111803934,
+            "changeTime": 1533111803934,
+            "contentHash": "80efcc593b1324cf525de1e1631bcee69ff1f162",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5008,
+            "modifiedTime": 1533111803934,
+            "changeTime": 1533111803934,
+            "contentHash": "6c20e75528a4a510853dada222473ae23da35601",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533111803934,
+            "changeTime": 1533111803934,
+            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 310,
+            "modifiedTime": 1533111803934,
+            "changeTime": 1533111803934,
+            "contentHash": "5f9ea8837451020d871c21bebc2b5d0400c465bb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533111803934,
+            "changeTime": 1533111803934,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
